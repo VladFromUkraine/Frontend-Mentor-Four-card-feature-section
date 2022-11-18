@@ -111,11 +111,11 @@ body {
 
 @media screen and (max-width: 600px) {
   .grid-container {
-    width: 320px;
+    width: 310px;
   }
 
   .grid-item {
-    width: 320px;
+    width: 310px;
   }
   .top-head {
     font-size: 26px;
@@ -151,5 +151,6 @@ body {
 
   #fifth {
     grid-area: 5 / 1 / 6 / 4;
+    margin-bottom: 20px;
   }
 }
